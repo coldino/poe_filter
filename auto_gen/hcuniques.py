@@ -1,6 +1,6 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
-# Created: 03/22/2018(m/d/y) 23:41:04 UTC from "Hardcore" data
+# Created: 03/23/2018(m/d/y) 02:02:20 UTC from "Hardcore" data
 
 desc = "Unique"
 
@@ -38,12 +38,10 @@ items = {
 	"0 Murder Boots": {"base": "Murder Boots", "type": "unique very high"},
 	"0 Necromancer Silks": {"base": "Necromancer Silks", "type": "unique very high"},
 	"0 Occultist's Vestment": {"base": "Occultist's Vestment", "type": "unique very high"},
-	"0 Onyx Amulet": {"base": "Onyx Amulet", "type": "unique very high"},
 	"0 Painted Tower Shield": {"base": "Painted Tower Shield", "type": "unique very high"},
 	"0 Penetrating Arrow Quiver": {"base": "Penetrating Arrow Quiver", "type": "unique very high"},
 	"0 Prismatic Jewel": {"base": "Prismatic Jewel", "type": "unique very high"},
 	"0 Rawhide Tower Shield": {"base": "Rawhide Tower Shield", "type": "unique very high"},
-	"0 Rock Breaker": {"base": "Rock Breaker", "type": "unique very high"},
 	"0 Ruby Flask": {"base": "Ruby Flask", "type": "unique very high"},
 	"0 Sadist Garb": {"base": "Sadist Garb", "type": "unique very high"},
 	"0 Sapphire Flask": {"base": "Sapphire Flask", "type": "unique very high"},
@@ -51,6 +49,7 @@ items = {
 	"0 Siege Axe": {"base": "Siege Axe", "type": "unique very high"},
 	"0 Silken Hood": {"base": "Silken Hood", "type": "unique very high"},
 	"0 Silver Flask": {"base": "Silver Flask", "type": "unique very high"},
+	"0 Stibnite Flask": {"base": "Stibnite Flask", "type": "unique very high"},
 	"0 Stygian Vise": {"base": "Stygian Vise", "type": "unique very high"},
 	"0 Terror Claw": {"base": "Terror Claw", "type": "unique very high"},
 	"0 Titan Greaves": {"base": "Titan Greaves", "type": "unique very high"},
@@ -99,12 +98,13 @@ items = {
 	"1 Lion Sword": {"base": "Lion Sword", "type": "unique high"},
 	"1 Mosaic Kite Shield": {"base": "Mosaic Kite Shield", "type": "unique high"},
 	"1 Nightmare Bascinet": {"base": "Nightmare Bascinet", "type": "unique high"},
+	"1 Onyx Amulet": {"base": "Onyx Amulet", "type": "unique high"},
 	"1 Pinnacle Tower Shield": {"base": "Pinnacle Tower Shield", "type": "unique high"},
 	"1 Platinum Sceptre": {"base": "Platinum Sceptre", "type": "unique high"},
 	"1 Reef Map": {"base": "Reef Map", "type": "unique high"},
 	"1 Reinforced Greaves": {"base": "Reinforced Greaves", "type": "unique high"},
+	"1 Rock Breaker": {"base": "Rock Breaker", "type": "unique high"},
 	"1 Samite Gloves": {"base": "Samite Gloves", "type": "unique high"},
-	"1 Samite Helmet": {"base": "Samite Helmet", "type": "unique high"},
 	"1 Sanctified Mana Flask": {"base": "Sanctified Mana Flask", "type": "unique high"},
 	"1 Savant's Robe": {"base": "Savant's Robe", "type": "unique high"},
 	"1 Sentinel Jacket": {"base": "Sentinel Jacket", "type": "unique high"},
@@ -144,7 +144,6 @@ items = {
 	"6 Paua Amulet": {"base": "Paua Amulet", "type": "unique special"},
 	"6 Paua Ring": {"base": "Paua Ring", "type": "unique special"},
 	"6 Praetor Crown": {"base": "Praetor Crown", "type": "unique special"},
-	"6 Prismatic Ring": {"base": "Prismatic Ring", "type": "unique special"},
 	"6 Reaver Sword": {"base": "Reaver Sword", "type": "unique special"},
 	"6 Royal Bow": {"base": "Royal Bow", "type": "unique special"},
 	"6 Sage Wand": {"base": "Sage Wand", "type": "unique special"},

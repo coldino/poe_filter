@@ -1,6 +1,6 @@
 #**************************************************************
 # Welcome to xan.filter, a Python generated loot filter for PoE
-# This filter was generated for Temp Hardcore on 03/22/2018(m/d/y) 23:41:05 UTC
+# This filter was generated for Temp Hardcore on 03/23/2018(m/d/y) 02:02:20 UTC
 # The most current version of code can always be found at https://github.com/xanthics/poe_filter
 #**************************************************************
 
@@ -425,7 +425,7 @@ Show
 #Unique
 Show
 	DisableDropSound True
-	BaseType "Ambusher" "Antique Rapier" "Assassin's Mitts" "Auric Mace" "Aventail Helmet" "Awl" "Baroque Round Shield" "Basket Rapier" "Bastard Sword" "Blunt Arrow Quiver" "Bone Bow" "Bone Circlet" "Boot Blade" "Boot Knife" "Brass Maul" "Brass Spirit Shield" "Bronze Gauntlets" "Bronze Sceptre" "Bronzescale Boots" "Bronzescale Gauntlets" "Buckskin Tunic" "Burnished Spiked Shield" "Cedar Tower Shield" "Chain Gloves" "Clasped Boots" "Cloth Belt" "Colossal Tower Shield" "Compound Spiked Shield" "Conjurer Gloves" "Conquest Chainmail" "Copper Plate" "Crude Bow" "Crusader Plate" "Crystal Sceptre" "Crystal Wand" "Cutthroat's Garb" "Decimation Bow" "Decorative Axe" "Deerskin Boots" "Deerskin Gloves" "Demon's Horn" "Destroyer Regalia" "Diamond Flask" "Dragonscale Gauntlets" "Dread Maul" "Dream Mace" "Dusk Blade" "Enameled Buckler" "Engraved Wand" "Estoc" "Ezomyte Blade" "Ezomyte Staff" "Fiend Dagger" "Flaying Knife" "Full Dragonscale" "Gilded Sallet" "Gnarled Branch" "Goat's Horn" "Golden Buckler" "Golden Mask" "Goliath Greaves" "Great Helmet" "Greater Mana Flask" "Gut Ripper" "Harbinger Bow" "Harmonic Spirit Shield" "Headsman Axe" "Heavy Belt" "Highland Blade" "Holy Chainmail" "Imbued Wand" "Imperial Skean" "Iron Hat" "Iron Staff" "Ironscale Boots" "Ironscale Gauntlets" "Ivory Spirit Shield" "Jagged Foil" "Jagged Maul" "Karui Chopper" "Karui Maul" "Lacquered Helmet" "Lathi" "Latticed Ringmail" "Leather Hood" "Legion Boots" "Legion Sword" "Long Staff" "Lunaris Circlet" "Mesh Boots" "Military Staff" "Mind Cage" "Mirrored Spiked Shield" "Nailed Fist" "Opal Wand" "Ornate Mace" "Ornate Ringmail" "Painted Buckler" "Paua Amulet" "Plated Greaves" "Platinum Kris" "Poleaxe" "Praetor Crown" "Primordial Staff" "Prophet Crown" "Quartz Flask" "Quartz Wand" "Quicksilver Flask" "Ranger Bow" "Recurve Bow" "Riveted Boots" "Rock Breaker" "Rotted Round Shield" "Royal Skean" "Sadist Garb" "Sage Wand" "Sage's Robe" "Saintly Chainmail" "Samite Gloves" "Samite Helmet" "Scholar Boots" "Scholar's Robe" "Secutor Helm" "Sentinel Jacket" "Serpentine Staff" "Serpentscale Boots" "Serrated Arrow Quiver" "Shadow Sceptre" "Shagreen Boots" "Sharkskin Boots" "Sharkskin Tunic" "Short Bow" "Silk Gloves" "Silk Slippers" "Simple Robe" "Skinning Knife" "Slaughter Knife" "Sledgehammer" "Soldier Boots" "Soldier Helmet" "Spidersilk Robe" "Spike-Point Arrow Quiver" "Spiked Club" "Spine Bow" "Spiraled Wand" "Stiletto" "Strapped Boots" "Strapped Leather" "Studded Round Shield" "Sulphur Flask" "Sundering Axe" "Supreme Spiked Shield" "Tarnished Spirit Shield" "Terror Maul" "Thresher Claw" "Throat Stabber" "Tiger Sword" "Timeworn Claw" "Titan Gauntlets" "Tomahawk" "Tribal Circlet" "Tricorne" "Turquoise Amulet" "Vaal Buckler" "Vaal Claw" "Vaal Hatchet" "Vaal Regalia" "Velvet Gloves" "Velvet Slippers" "Vile Staff" "Vine Circlet" "Visored Sallet" "Void Sceptre" "War Buckler" "Whalebone Rapier" "Wild Leather" "Wool Gloves" "Wrapped Mitts" "Wyrmscale Gauntlets" "Zealot Helmet"
+	BaseType "Ambusher" "Antique Rapier" "Assassin's Mitts" "Auric Mace" "Aventail Helmet" "Awl" "Baroque Round Shield" "Basket Rapier" "Bastard Sword" "Blunt Arrow Quiver" "Bone Bow" "Bone Circlet" "Boot Blade" "Boot Knife" "Brass Maul" "Brass Spirit Shield" "Bronze Gauntlets" "Bronze Sceptre" "Bronzescale Boots" "Bronzescale Gauntlets" "Buckskin Tunic" "Burnished Spiked Shield" "Cedar Tower Shield" "Chain Gloves" "Clasped Boots" "Cloth Belt" "Colossal Tower Shield" "Compound Spiked Shield" "Conjurer Gloves" "Conquest Chainmail" "Copper Plate" "Crude Bow" "Crusader Plate" "Crystal Sceptre" "Crystal Wand" "Cutthroat's Garb" "Decimation Bow" "Decorative Axe" "Deerskin Boots" "Deerskin Gloves" "Demon's Horn" "Destroyer Regalia" "Diamond Flask" "Dragonscale Gauntlets" "Dread Maul" "Dream Mace" "Dusk Blade" "Enameled Buckler" "Engraved Wand" "Estoc" "Ezomyte Blade" "Ezomyte Staff" "Fiend Dagger" "Flaying Knife" "Full Dragonscale" "Gilded Sallet" "Gnarled Branch" "Goat's Horn" "Golden Buckler" "Golden Mask" "Goliath Greaves" "Great Helmet" "Greater Mana Flask" "Gut Ripper" "Harbinger Bow" "Harmonic Spirit Shield" "Headsman Axe" "Heavy Belt" "Highland Blade" "Holy Chainmail" "Imbued Wand" "Imperial Skean" "Iron Hat" "Iron Staff" "Ironscale Boots" "Ironscale Gauntlets" "Ivory Spirit Shield" "Jagged Foil" "Jagged Maul" "Karui Chopper" "Karui Maul" "Lacquered Helmet" "Lathi" "Latticed Ringmail" "Leather Hood" "Legion Boots" "Legion Sword" "Long Staff" "Lunaris Circlet" "Mesh Boots" "Military Staff" "Mind Cage" "Mirrored Spiked Shield" "Nailed Fist" "Opal Wand" "Ornate Mace" "Ornate Ringmail" "Painted Buckler" "Paua Amulet" "Plated Greaves" "Platinum Kris" "Poleaxe" "Praetor Crown" "Primordial Staff" "Prophet Crown" "Quartz Flask" "Quartz Wand" "Quicksilver Flask" "Ranger Bow" "Recurve Bow" "Riveted Boots" "Rock Breaker" "Rotted Round Shield" "Royal Skean" "Sadist Garb" "Sage Wand" "Sage's Robe" "Saintly Chainmail" "Samite Gloves" "Samite Helmet" "Scholar Boots" "Scholar's Robe" "Secutor Helm" "Sentinel Jacket" "Serpentine Staff" "Serpentscale Boots" "Serrated Arrow Quiver" "Shadow Sceptre" "Shagreen Boots" "Sharkskin Boots" "Sharkskin Tunic" "Short Bow" "Silk Gloves" "Silk Slippers" "Simple Robe" "Skinning Knife" "Slaughter Knife" "Sledgehammer" "Soldier Boots" "Soldier Helmet" "Spidersilk Robe" "Spike-Point Arrow Quiver" "Spiked Club" "Spine Bow" "Spiraled Wand" "Stiletto" "Strapped Boots" "Strapped Leather" "Studded Round Shield" "Sulphur Flask" "Sundering Axe" "Supreme Spiked Shield" "Tarnished Spirit Shield" "Terror Maul" "Thresher Claw" "Throat Stabber" "Tiger Sword" "Timeworn Claw" "Titan Gauntlets" "Tomahawk" "Tribal Circlet" "Tricorne" "Turquoise Amulet" "Ursine Pelt" "Vaal Buckler" "Vaal Claw" "Vaal Hatchet" "Vaal Regalia" "Velvet Gloves" "Velvet Slippers" "Vile Staff" "Vine Circlet" "Visored Sallet" "Void Sceptre" "War Buckler" "Whalebone Rapier" "Wild Leather" "Wool Gloves" "Wrapped Mitts" "Wyrmscale Gauntlets" "Zealot Helmet"
 	PlayAlertSound 3 20
 	Rarity Unique
 	SetBackgroundColor 0 0 0 220
@@ -1807,123 +1807,6 @@ Show
 	Rarity Rare
 	SetBackgroundColor 0 0 0 220
 	SetFontSize 25
-
-#General Rares
-Show
-	DisableDropSound True
-	DropLevel <= 10
-	ItemLevel >= 20
-	Rarity Rare
-	Rarity Rare
-	SetBackgroundColor 0 0 0 220
-	SetFontSize 25
-
-#General Rares
-Show
-	DisableDropSound True
-	DropLevel <= 15
-	ItemLevel >= 25
-	Rarity Rare
-	Rarity Rare
-	SetBackgroundColor 0 0 0 220
-	SetFontSize 25
-
-#General Rares
-Show
-	DisableDropSound True
-	DropLevel <= 20
-	ItemLevel >= 30
-	Rarity Rare
-	Rarity Rare
-	SetBackgroundColor 0 0 0 220
-	SetFontSize 25
-
-#General Rares
-Show
-	DisableDropSound True
-	DropLevel <= 25
-	ItemLevel >= 35
-	Rarity Rare
-	Rarity Rare
-	SetBackgroundColor 0 0 0 220
-	SetFontSize 25
-
-#General Rares
-Show
-	DisableDropSound True
-	DropLevel <= 30
-	ItemLevel >= 40
-	Rarity Rare
-	Rarity Rare
-	SetBackgroundColor 0 0 0 220
-	SetFontSize 25
-
-#General Rares
-Show
-	DisableDropSound True
-	DropLevel <= 35
-	ItemLevel >= 45
-	Rarity Rare
-	Rarity Rare
-	SetBackgroundColor 0 0 0 220
-	SetFontSize 25
-
-#General Rares
-Show
-	DisableDropSound True
-	DropLevel <= 40
-	ItemLevel >= 50
-	Rarity Rare
-	Rarity Rare
-	SetBackgroundColor 0 0 0 220
-	SetFontSize 25
-
-#General Rares
-Show
-	DisableDropSound True
-	DropLevel <= 45
-	ItemLevel >= 55
-	Rarity Rare
-	Rarity Rare
-	SetBackgroundColor 0 0 0 220
-	SetFontSize 25
-
-#General Rares
-Show
-	DisableDropSound True
-	DropLevel <= 5
-	ItemLevel >= 15
-	Rarity Rare
-	Rarity Rare
-	SetBackgroundColor 0 0 0 220
-	SetFontSize 25
-
-#General Rares
-Show
-	DisableDropSound True
-	DropLevel <= 50
-	ItemLevel >= 60
-	Rarity Rare
-	Rarity Rare
-	SetBackgroundColor 0 0 0 220
-	SetFontSize 25
-
-#General Rares
-Show
-	DisableDropSound True
-	DropLevel <= 55
-	ItemLevel >= 65
-	Rarity Rare
-	Rarity Rare
-	SetBackgroundColor 0 0 0 220
-	SetFontSize 25
-
-#General Rares
-Show
-	DisableDropSound True
-	Rarity Rare
-	SetBackgroundColor 0 0 0 220
-	SetFontSize 30
 
 #General Rares
 Show

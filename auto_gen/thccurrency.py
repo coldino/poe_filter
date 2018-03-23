@@ -1,6 +1,6 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
-# Created: 03/22/2018(m/d/y) 23:41:04 UTC from "tmphardcore" data
+# Created: 03/23/2018(m/d/y) 02:02:19 UTC from "tmphardcore" data
 
 desc = "Currency Autogen"
 
@@ -20,7 +20,7 @@ items = {
 	"0 Blessing of Esh": {"base": "Blessing of Esh", "class": "Currency", "type": "currency very high"},
 	"0 Blessing of Tul": {"base": "Blessing of Tul", "class": "Currency", "type": "currency very high"},
 	"0 Blessing of Uul-Netol": {"base": "Blessing of Uul-Netol", "class": "Currency", "type": "currency extremely high"},
-	"0 Blessing of Xoph": {"base": "Blessing of Xoph", "class": "Currency", "type": "currency very high"},
+	"0 Blessing of Xoph": {"base": "Blessing of Xoph", "class": "Currency", "type": "currency high"},
 	"0 Cartographer's Chisel": {"base": "Cartographer's Chisel", "class": "Currency", "type": "currency normal"},
 	"0 Chaos Orb": {"base": "Chaos Orb", "class": "Currency", "type": "currency high"},
 	"0 Chaos Shard": {"base": "Chaos Shard", "class": "Currency", "type": "currency low"},
@@ -33,8 +33,8 @@ items = {
 	"0 Exalted Shard": {"base": "Exalted Shard", "class": "Currency", "type": "currency high"},
 	"0 Gemcutter's Prism": {"base": "Gemcutter's Prism", "class": "Currency", "type": "currency normal"},
 	"0 Glassblower's Bauble": {"base": "Glassblower's Bauble", "class": "Currency", "type": "currency normal"},
-	"0 Harbinger's Orb": {"base": "Harbinger's Orb", "class": "Currency", "type": "currency very high"},
-	"0 Harbinger's Shard": {"base": "Harbinger's Shard", "class": "Currency", "type": "currency normal"},
+	"0 Harbinger's Orb": {"base": "Harbinger's Orb", "class": "Currency", "type": "currency extremely high"},
+	"0 Harbinger's Shard": {"base": "Harbinger's Shard", "class": "Currency", "type": "currency very high"},
 	"0 Horizon Shard": {"base": "Horizon Shard", "class": "Currency", "type": "currency normal"},
 	"0 Jeweller's Orb": {"base": "Jeweller's Orb", "class": "Currency", "type": "currency low"},
 	"0 Journeyman Cartographer's Sextant": {"base": "Journeyman Cartographer's Sextant", "class": "Currency", "type": "currency high"},
@@ -47,7 +47,7 @@ items = {
 	"0 Orb of Binding": {"base": "Orb of Binding", "class": "Currency", "type": "currency high"},
 	"0 Orb of Chance": {"base": "Orb of Chance", "class": "Currency", "type": "currency low"},
 	"0 Orb of Fusing": {"base": "Orb of Fusing", "class": "Currency", "type": "currency normal"},
-	"0 Orb of Horizons": {"base": "Orb of Horizons", "class": "Currency", "type": "currency very high"},
+	"0 Orb of Horizons": {"base": "Orb of Horizons", "class": "Currency", "type": "currency high"},
 	"0 Orb of Regret": {"base": "Orb of Regret", "class": "Currency", "type": "currency normal"},
 	"0 Orb of Scouring": {"base": "Orb of Scouring", "class": "Currency", "type": "currency normal"},
 	"0 Orb of Transmutation": {"base": "Orb of Transmutation", "class": "Currency", "type": "currency very low"},

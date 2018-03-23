@@ -1,6 +1,6 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
-# Created: 03/22/2018(m/d/y) 23:41:04 UTC from "tmpstandard" data
+# Created: 03/23/2018(m/d/y) 02:02:19 UTC from "tmpstandard" data
 
 desc = "Divination Card"
 
@@ -40,9 +40,11 @@ items = {
 	"2 The Dreamer": {"base": "The Dreamer", "class": "Divination Card", "type": "divination high"},
 	"2 The Enlightened": {"base": "The Enlightened", "class": "Divination Card", "type": "divination high"},
 	"2 The Ethereal": {"base": "The Ethereal", "class": "Divination Card", "type": "divination high"},
+	"2 The Fletcher": {"base": "The Fletcher", "class": "Divination Card", "type": "divination high"},
 	"2 The Formless Sea": {"base": "The Formless Sea", "class": "Divination Card", "type": "divination high"},
 	"2 The Hoarder": {"base": "The Hoarder", "class": "Divination Card", "type": "divination high"},
 	"2 The Hunger": {"base": "The Hunger", "class": "Divination Card", "type": "divination high"},
+	"2 The Lion": {"base": "The Lion", "class": "Divination Card", "type": "divination high"},
 	"2 The Obscured": {"base": "The Obscured", "class": "Divination Card", "type": "divination high"},
 	"2 The Offering": {"base": "The Offering", "class": "Divination Card", "type": "divination high"},
 	"2 The Polymath": {"base": "The Polymath", "class": "Divination Card", "type": "divination high"},
@@ -85,10 +87,10 @@ items = {
 	"3 The Betrayal": {"base": "The Betrayal", "class": "Divination Card", "type": "divination low"},
 	"3 The Blazing Fire": {"base": "The Blazing Fire", "class": "Divination Card", "type": "divination low"},
 	"3 The Calling": {"base": "The Calling", "class": "Divination Card", "type": "divination low"},
-	"3 The Catalyst": {"base": "The Catalyst", "class": "Divination Card", "type": "divination low"},
 	"3 The Coming Storm": {"base": "The Coming Storm", "class": "Divination Card", "type": "divination low"},
 	"3 The Deceiver": {"base": "The Deceiver", "class": "Divination Card", "type": "divination low"},
 	"3 The Doppelganger": {"base": "The Doppelganger", "class": "Divination Card", "type": "divination low"},
+	"3 The Dragon": {"base": "The Dragon", "class": "Divination Card", "type": "divination low"},
 	"3 The Drunken Aristocrat": {"base": "The Drunken Aristocrat", "class": "Divination Card", "type": "divination low"},
 	"3 The Endurance": {"base": "The Endurance", "class": "Divination Card", "type": "divination low"},
 	"3 The Eye of the Dragon": {"base": "The Eye of the Dragon", "class": "Divination Card", "type": "divination low"},
@@ -96,12 +98,13 @@ items = {
 	"3 The Flora's Gift": {"base": "The Flora's Gift", "class": "Divination Card", "type": "divination low"},
 	"3 The Fox": {"base": "The Fox", "class": "Divination Card", "type": "divination low"},
 	"3 The Gambler": {"base": "The Gambler", "class": "Divination Card", "type": "divination low"},
+	"3 The Garish Power": {"base": "The Garish Power", "class": "Divination Card", "type": "divination low"},
+	"3 The Gemcutter": {"base": "The Gemcutter", "class": "Divination Card", "type": "divination low"},
 	"3 The Gentleman": {"base": "The Gentleman", "class": "Divination Card", "type": "divination low"},
 	"3 The Gladiator": {"base": "The Gladiator", "class": "Divination Card", "type": "divination low"},
 	"3 The Hermit": {"base": "The Hermit", "class": "Divination Card", "type": "divination low"},
 	"3 The Incantation": {"base": "The Incantation", "class": "Divination Card", "type": "divination low"},
 	"3 The Lich": {"base": "The Lich", "class": "Divination Card", "type": "divination low"},
-	"3 The Lord in Black": {"base": "The Lord in Black", "class": "Divination Card", "type": "divination low"},
 	"3 The Lover": {"base": "The Lover", "class": "Divination Card", "type": "divination low"},
 	"3 The Lunaris Priestess": {"base": "The Lunaris Priestess", "class": "Divination Card", "type": "divination low"},
 	"3 The Mercenary": {"base": "The Mercenary", "class": "Divination Card", "type": "divination low"},

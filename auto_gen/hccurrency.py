@@ -1,6 +1,6 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
-# Created: 03/22/2018(m/d/y) 23:41:04 UTC from "Hardcore" data
+# Created: 03/23/2018(m/d/y) 02:02:19 UTC from "Hardcore" data
 
 desc = "Currency Autogen"
 

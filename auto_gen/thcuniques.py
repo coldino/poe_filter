@@ -1,6 +1,6 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
-# Created: 03/22/2018(m/d/y) 23:41:04 UTC from "tmphardcore" data
+# Created: 03/23/2018(m/d/y) 02:02:20 UTC from "tmphardcore" data
 
 desc = "Unique"
 
@@ -102,7 +102,6 @@ items = {
 	"6 Imperial Bow": {"base": "Imperial Bow", "type": "unique special"},
 	"6 Imperial Claw": {"base": "Imperial Claw", "type": "unique special"},
 	"6 Infernal Sword": {"base": "Infernal Sword", "type": "unique special"},
-	"6 Iron Circlet": {"base": "Iron Circlet", "type": "unique special"},
 	"6 Iron Mask": {"base": "Iron Mask", "type": "unique special"},
 	"6 Iron Ring": {"base": "Iron Ring", "type": "unique special"},
 	"6 Jade Amulet": {"base": "Jade Amulet", "type": "unique special"},
@@ -121,7 +120,7 @@ items = {
 	"6 Opal Ring": {"base": "Opal Ring", "type": "unique special"},
 	"6 Ornate Sword": {"base": "Ornate Sword", "type": "unique special"},
 	"6 Paua Ring": {"base": "Paua Ring", "type": "unique special"},
-	"6 Plank Kite Shield": {"base": "Plank Kite Shield", "type": "unique special"},
+	"6 Pinnacle Tower Shield": {"base": "Pinnacle Tower Shield", "type": "unique special"},
 	"6 Plate Vest": {"base": "Plate Vest", "type": "unique special"},
 	"6 Prismatic Ring": {"base": "Prismatic Ring", "type": "unique special"},
 	"6 Reaver Sword": {"base": "Reaver Sword", "type": "unique special"},
@@ -161,7 +160,6 @@ items = {
 	"7 Basket Rapier": {"base": "Basket Rapier", "type": "unique low"},
 	"7 Bastard Sword": {"base": "Bastard Sword", "type": "unique low"},
 	"7 Blunt Arrow Quiver": {"base": "Blunt Arrow Quiver", "type": "unique low"},
-	"7 Bone Bow": {"base": "Bone Bow", "type": "unique low"},
 	"7 Bone Circlet": {"base": "Bone Circlet", "type": "unique low"},
 	"7 Boot Blade": {"base": "Boot Blade", "type": "unique low"},
 	"7 Boot Knife": {"base": "Boot Knife", "type": "unique low"},
@@ -205,6 +203,7 @@ items = {
 	"7 Ezomyte Staff": {"base": "Ezomyte Staff", "type": "unique low"},
 	"7 Fiend Dagger": {"base": "Fiend Dagger", "type": "unique low"},
 	"7 Flaying Knife": {"base": "Flaying Knife", "type": "unique low"},
+	"7 Fright Claw": {"base": "Fright Claw", "type": "unique low"},
 	"7 Full Dragonscale": {"base": "Full Dragonscale", "type": "unique low"},
 	"7 Gilded Sallet": {"base": "Gilded Sallet", "type": "unique low"},
 	"7 Gnarled Branch": {"base": "Gnarled Branch", "type": "unique low"},
@@ -223,6 +222,7 @@ items = {
 	"7 Holy Chainmail": {"base": "Holy Chainmail", "type": "unique low"},
 	"7 Imbued Wand": {"base": "Imbued Wand", "type": "unique low"},
 	"7 Imperial Skean": {"base": "Imperial Skean", "type": "unique low"},
+	"7 Iron Circlet": {"base": "Iron Circlet", "type": "unique low"},
 	"7 Iron Hat": {"base": "Iron Hat", "type": "unique low"},
 	"7 Iron Staff": {"base": "Iron Staff", "type": "unique low"},
 	"7 Ironscale Boots": {"base": "Ironscale Boots", "type": "unique low"},
@@ -233,6 +233,7 @@ items = {
 	"7 Karui Chopper": {"base": "Karui Chopper", "type": "unique low"},
 	"7 Karui Maul": {"base": "Karui Maul", "type": "unique low"},
 	"7 Lacquered Helmet": {"base": "Lacquered Helmet", "type": "unique low"},
+	"7 Laminated Kite Shield": {"base": "Laminated Kite Shield", "type": "unique low"},
 	"7 Lathi": {"base": "Lathi", "type": "unique low"},
 	"7 Latticed Ringmail": {"base": "Latticed Ringmail", "type": "unique low"},
 	"7 Leather Hood": {"base": "Leather Hood", "type": "unique low"},
@@ -243,7 +244,6 @@ items = {
 	"7 Mesh Boots": {"base": "Mesh Boots", "type": "unique low"},
 	"7 Military Staff": {"base": "Military Staff", "type": "unique low"},
 	"7 Mind Cage": {"base": "Mind Cage", "type": "unique low"},
-	"7 Mirrored Spiked Shield": {"base": "Mirrored Spiked Shield", "type": "unique low"},
 	"7 Nailed Fist": {"base": "Nailed Fist", "type": "unique low"},
 	"7 Opal Wand": {"base": "Opal Wand", "type": "unique low"},
 	"7 Ornate Mace": {"base": "Ornate Mace", "type": "unique low"},
@@ -265,6 +265,7 @@ items = {
 	"7 Rock Breaker": {"base": "Rock Breaker", "type": "unique low"},
 	"7 Rotted Round Shield": {"base": "Rotted Round Shield", "type": "unique low"},
 	"7 Royal Skean": {"base": "Royal Skean", "type": "unique low"},
+	"7 Sabre": {"base": "Sabre", "type": "unique low"},
 	"7 Sadist Garb": {"base": "Sadist Garb", "type": "unique low"},
 	"7 Sage Wand": {"base": "Sage Wand", "type": "unique low"},
 	"7 Sage's Robe": {"base": "Sage's Robe", "type": "unique low"},
@@ -299,6 +300,7 @@ items = {
 	"7 Stiletto": {"base": "Stiletto", "type": "unique low"},
 	"7 Strapped Boots": {"base": "Strapped Boots", "type": "unique low"},
 	"7 Strapped Leather": {"base": "Strapped Leather", "type": "unique low"},
+	"7 Strapped Mitts": {"base": "Strapped Mitts", "type": "unique low"},
 	"7 Studded Round Shield": {"base": "Studded Round Shield", "type": "unique low"},
 	"7 Sulphur Flask": {"base": "Sulphur Flask", "type": "unique low"},
 	"7 Sundering Axe": {"base": "Sundering Axe", "type": "unique low"},
@@ -317,7 +319,6 @@ items = {
 	"7 Ursine Pelt": {"base": "Ursine Pelt", "type": "unique low"},
 	"7 Vaal Buckler": {"base": "Vaal Buckler", "type": "unique low"},
 	"7 Vaal Claw": {"base": "Vaal Claw", "type": "unique low"},
-	"7 Vaal Hatchet": {"base": "Vaal Hatchet", "type": "unique low"},
 	"7 Vaal Regalia": {"base": "Vaal Regalia", "type": "unique low"},
 	"7 Velvet Gloves": {"base": "Velvet Gloves", "type": "unique low"},
 	"7 Velvet Slippers": {"base": "Velvet Slippers", "type": "unique low"},
