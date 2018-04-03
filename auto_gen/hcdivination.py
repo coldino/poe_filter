@@ -1,6 +1,6 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
-# Created: 04/03/2018(m/d/y) 01:14:25 UTC from "Hardcore" data
+# Created: 04/03/2018(m/d/y) 03:41:18 UTC from "Hardcore" data
 
 desc = "Divination Card"
 
@@ -61,7 +61,6 @@ items = {
 	"2 The Road to Power": {"base": "The Road to Power", "class": "Divination Card", "type": "divination high"},
 	"2 The Saint's Treasure": {"base": "The Saint's Treasure", "class": "Divination Card", "type": "divination high"},
 	"2 The Sephirot": {"base": "The Sephirot", "class": "Divination Card", "type": "divination high"},
-	"2 The Spoiled Prince": {"base": "The Spoiled Prince", "class": "Divination Card", "type": "divination high"},
 	"2 The Standoff": {"base": "The Standoff", "class": "Divination Card", "type": "divination high"},
 	"2 The Thaumaturgist": {"base": "The Thaumaturgist", "class": "Divination Card", "type": "divination high"},
 	"2 The Throne": {"base": "The Throne", "class": "Divination Card", "type": "divination high"},
@@ -97,7 +96,9 @@ items = {
 	"3 The Lunaris Priestess": {"base": "The Lunaris Priestess", "class": "Divination Card", "type": "divination low"},
 	"3 The Opulent": {"base": "The Opulent", "class": "Divination Card", "type": "divination low"},
 	"3 The Rabid Rhoa": {"base": "The Rabid Rhoa", "class": "Divination Card", "type": "divination low"},
+	"3 The Ruthless Ceinture": {"base": "The Ruthless Ceinture", "class": "Divination Card", "type": "divination low"},
 	"3 The Scholar": {"base": "The Scholar", "class": "Divination Card", "type": "divination low"},
+	"3 The Summoner": {"base": "The Summoner", "class": "Divination Card", "type": "divination low"},
 	"3 The Surgeon": {"base": "The Surgeon", "class": "Divination Card", "type": "divination low"},
 	"3 The Tower": {"base": "The Tower", "class": "Divination Card", "type": "divination low"},
 	"3 The Traitor": {"base": "The Traitor", "class": "Divination Card", "type": "divination low"},

@@ -1,6 +1,6 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
-# Created: 04/03/2018(m/d/y) 01:14:25 UTC from "tmphardcore" data
+# Created: 04/03/2018(m/d/y) 03:41:18 UTC from "tmphardcore" data
 
 desc = "Divination Card"
 
@@ -13,6 +13,7 @@ items = {
 	"1 Abandoned Wealth": {"base": "Abandoned Wealth", "class": "Divination Card", "type": "divination very high"},
 	"1 Chaotic Disposition": {"base": "Chaotic Disposition", "class": "Divination Card", "type": "divination very high"},
 	"1 House of Mirrors": {"base": "House of Mirrors", "class": "Divination Card", "type": "divination very high"},
+	"1 Hunter's Reward": {"base": "Hunter's Reward", "class": "Divination Card", "type": "divination very high"},
 	"1 Mawr Blaidd": {"base": "Mawr Blaidd", "class": "Divination Card", "type": "divination very high"},
 	"1 Pride Before the Fall": {"base": "Pride Before the Fall", "class": "Divination Card", "type": "divination very high"},
 	"1 The Doctor": {"base": "The Doctor", "class": "Divination Card", "type": "divination very high"},
@@ -29,7 +30,6 @@ items = {
 	"2 Bowyer's Dream": {"base": "Bowyer's Dream", "class": "Divination Card", "type": "divination high"},
 	"2 Emperor of Purity": {"base": "Emperor of Purity", "class": "Divination Card", "type": "divination high"},
 	"2 Heterochromia": {"base": "Heterochromia", "class": "Divination Card", "type": "divination high"},
-	"2 Hunter's Reward": {"base": "Hunter's Reward", "class": "Divination Card", "type": "divination high"},
 	"2 The Artist": {"base": "The Artist", "class": "Divination Card", "type": "divination high"},
 	"2 The Breach": {"base": "The Breach", "class": "Divination Card", "type": "divination high"},
 	"2 The Brittle Emperor": {"base": "The Brittle Emperor", "class": "Divination Card", "type": "divination high"},
@@ -73,6 +73,7 @@ items = {
 	"3 The Battle Born": {"base": "The Battle Born", "class": "Divination Card", "type": "divination low"},
 	"3 The Betrayal": {"base": "The Betrayal", "class": "Divination Card", "type": "divination low"},
 	"3 The Blazing Fire": {"base": "The Blazing Fire", "class": "Divination Card", "type": "divination low"},
+	"3 The Calling": {"base": "The Calling", "class": "Divination Card", "type": "divination low"},
 	"3 The Coming Storm": {"base": "The Coming Storm", "class": "Divination Card", "type": "divination low"},
 	"3 The Conduit": {"base": "The Conduit", "class": "Divination Card", "type": "divination low"},
 	"3 The Deceiver": {"base": "The Deceiver", "class": "Divination Card", "type": "divination low"},
@@ -90,6 +91,7 @@ items = {
 	"3 The Opulent": {"base": "The Opulent", "class": "Divination Card", "type": "divination low"},
 	"3 The Puzzle": {"base": "The Puzzle", "class": "Divination Card", "type": "divination low"},
 	"3 The Rabid Rhoa": {"base": "The Rabid Rhoa", "class": "Divination Card", "type": "divination low"},
+	"3 The Ruthless Ceinture": {"base": "The Ruthless Ceinture", "class": "Divination Card", "type": "divination low"},
 	"3 The Scholar": {"base": "The Scholar", "class": "Divination Card", "type": "divination low"},
 	"3 The Sun": {"base": "The Sun", "class": "Divination Card", "type": "divination low"},
 	"3 The Surgeon": {"base": "The Surgeon", "class": "Divination Card", "type": "divination low"},

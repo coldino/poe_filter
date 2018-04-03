@@ -1,6 +1,6 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
-# Created: 04/03/2018(m/d/y) 01:14:26 UTC from "tmphardcore" data
+# Created: 04/03/2018(m/d/y) 03:41:18 UTC from "tmphardcore" data
 
 desc = "Unique"
 
@@ -68,7 +68,6 @@ items = {
 	"1 Titan Greaves": {"base": "Titan Greaves", "type": "unique high"},
 	"1 Torture Chamber Map": {"base": "Torture Chamber Map", "type": "unique high"},
 	"1 Vaal Mask": {"base": "Vaal Mask", "type": "unique high"},
-	"1 Vaal Pyramid Map": {"base": "Vaal Pyramid Map", "type": "unique high"},
 	"1 Vaal Sceptre": {"base": "Vaal Sceptre", "type": "unique high"},
 	"1 Wereclaw Talisman": {"base": "Wereclaw Talisman", "type": "unique high"},
 	"1 Wyrmscale Doublet": {"base": "Wyrmscale Doublet", "type": "unique high"},
@@ -155,6 +154,7 @@ items = {
 	"6 Woodsplitter": {"base": "Woodsplitter", "type": "unique special"},
 	"6 Zodiac Leather": {"base": "Zodiac Leather", "type": "unique special"},
 	"7 Ambusher": {"base": "Ambusher", "type": "unique low"},
+	"7 Amethyst Flask": {"base": "Amethyst Flask", "type": "unique low"},
 	"7 Antique Rapier": {"base": "Antique Rapier", "type": "unique low"},
 	"7 Assassin's Mitts": {"base": "Assassin's Mitts", "type": "unique low"},
 	"7 Auric Mace": {"base": "Auric Mace", "type": "unique low"},
@@ -236,6 +236,7 @@ items = {
 	"7 Lacquered Helmet": {"base": "Lacquered Helmet", "type": "unique low"},
 	"7 Laminated Kite Shield": {"base": "Laminated Kite Shield", "type": "unique low"},
 	"7 Lathi": {"base": "Lathi", "type": "unique low"},
+	"7 Latticed Ringmail": {"base": "Latticed Ringmail", "type": "unique low"},
 	"7 Leather Hood": {"base": "Leather Hood", "type": "unique low"},
 	"7 Legion Boots": {"base": "Legion Boots", "type": "unique low"},
 	"7 Lion Sword": {"base": "Lion Sword", "type": "unique low"},
@@ -251,6 +252,7 @@ items = {
 	"7 Ornate Ringmail": {"base": "Ornate Ringmail", "type": "unique low"},
 	"7 Painted Buckler": {"base": "Painted Buckler", "type": "unique low"},
 	"7 Paua Amulet": {"base": "Paua Amulet", "type": "unique low"},
+	"7 Pine Buckler": {"base": "Pine Buckler", "type": "unique low"},
 	"7 Plated Greaves": {"base": "Plated Greaves", "type": "unique low"},
 	"7 Platinum Kris": {"base": "Platinum Kris", "type": "unique low"},
 	"7 Poleaxe": {"base": "Poleaxe", "type": "unique low"},
@@ -266,7 +268,6 @@ items = {
 	"7 Riveted Boots": {"base": "Riveted Boots", "type": "unique low"},
 	"7 Rotted Round Shield": {"base": "Rotted Round Shield", "type": "unique low"},
 	"7 Royal Skean": {"base": "Royal Skean", "type": "unique low"},
-	"7 Sabre": {"base": "Sabre", "type": "unique low"},
 	"7 Sadist Garb": {"base": "Sadist Garb", "type": "unique low"},
 	"7 Sage's Robe": {"base": "Sage's Robe", "type": "unique low"},
 	"7 Samite Gloves": {"base": "Samite Gloves", "type": "unique low"},
@@ -295,14 +296,17 @@ items = {
 	"7 Spiked Club": {"base": "Spiked Club", "type": "unique low"},
 	"7 Spine Bow": {"base": "Spine Bow", "type": "unique low"},
 	"7 Spiraled Wand": {"base": "Spiraled Wand", "type": "unique low"},
+	"7 Stealth Boots": {"base": "Stealth Boots", "type": "unique low"},
 	"7 Stiletto": {"base": "Stiletto", "type": "unique low"},
 	"7 Strapped Boots": {"base": "Strapped Boots", "type": "unique low"},
 	"7 Strapped Leather": {"base": "Strapped Leather", "type": "unique low"},
+	"7 Strapped Mitts": {"base": "Strapped Mitts", "type": "unique low"},
 	"7 Studded Round Shield": {"base": "Studded Round Shield", "type": "unique low"},
 	"7 Sulphur Flask": {"base": "Sulphur Flask", "type": "unique low"},
 	"7 Sundering Axe": {"base": "Sundering Axe", "type": "unique low"},
 	"7 Supreme Spiked Shield": {"base": "Supreme Spiked Shield", "type": "unique low"},
 	"7 Tarnished Spirit Shield": {"base": "Tarnished Spirit Shield", "type": "unique low"},
+	"7 Terror Maul": {"base": "Terror Maul", "type": "unique low"},
 	"7 Thresher Claw": {"base": "Thresher Claw", "type": "unique low"},
 	"7 Throat Stabber": {"base": "Throat Stabber", "type": "unique low"},
 	"7 Tiger Sword": {"base": "Tiger Sword", "type": "unique low"},

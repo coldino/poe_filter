@@ -1,6 +1,6 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
-# Created: 04/03/2018(m/d/y) 01:14:25 UTC from "tmpstandard" data
+# Created: 04/03/2018(m/d/y) 03:41:18 UTC from "tmpstandard" data
 
 desc = "Divination Card"
 
@@ -118,6 +118,7 @@ items = {
 	"3 The Lord in Black": {"base": "The Lord in Black", "class": "Divination Card", "type": "divination low"},
 	"3 The Lover": {"base": "The Lover", "class": "Divination Card", "type": "divination low"},
 	"3 The Lunaris Priestess": {"base": "The Lunaris Priestess", "class": "Divination Card", "type": "divination low"},
+	"3 The Mercenary": {"base": "The Mercenary", "class": "Divination Card", "type": "divination low"},
 	"3 The Metalsmith's Gift": {"base": "The Metalsmith's Gift", "class": "Divination Card", "type": "divination low"},
 	"3 The Oath": {"base": "The Oath", "class": "Divination Card", "type": "divination low"},
 	"3 The Opulent": {"base": "The Opulent", "class": "Divination Card", "type": "divination low"},
@@ -131,6 +132,7 @@ items = {
 	"3 The Scholar": {"base": "The Scholar", "class": "Divination Card", "type": "divination low"},
 	"3 The Siren": {"base": "The Siren", "class": "Divination Card", "type": "divination low"},
 	"3 The Spoiled Prince": {"base": "The Spoiled Prince", "class": "Divination Card", "type": "divination low"},
+	"3 The Stormcaller": {"base": "The Stormcaller", "class": "Divination Card", "type": "divination low"},
 	"3 The Summoner": {"base": "The Summoner", "class": "Divination Card", "type": "divination low"},
 	"3 The Sun": {"base": "The Sun", "class": "Divination Card", "type": "divination low"},
 	"3 The Surgeon": {"base": "The Surgeon", "class": "Divination Card", "type": "divination low"},

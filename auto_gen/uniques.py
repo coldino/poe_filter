@@ -1,6 +1,6 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
-# Created: 04/03/2018(m/d/y) 01:14:26 UTC from "Standard" data
+# Created: 04/03/2018(m/d/y) 03:41:18 UTC from "Standard" data
 
 desc = "Unique"
 
@@ -84,6 +84,7 @@ items = {
 	"1 Savant's Robe": {"base": "Savant's Robe", "type": "unique high"},
 	"1 Sharkskin Tunic": {"base": "Sharkskin Tunic", "type": "unique high"},
 	"1 Siege Axe": {"base": "Siege Axe", "type": "unique high"},
+	"1 Silken Hood": {"base": "Silken Hood", "type": "unique high"},
 	"1 Silver Flask": {"base": "Silver Flask", "type": "unique high"},
 	"1 Steelhead": {"base": "Steelhead", "type": "unique high"},
 	"1 Stibnite Flask": {"base": "Stibnite Flask", "type": "unique high"},
@@ -280,6 +281,7 @@ items = {
 	"7 Ezomyte Staff": {"base": "Ezomyte Staff", "type": "unique low"},
 	"7 Flaying Knife": {"base": "Flaying Knife", "type": "unique low"},
 	"7 Full Dragonscale": {"base": "Full Dragonscale", "type": "unique low"},
+	"7 Gladius": {"base": "Gladius", "type": "unique low"},
 	"7 Goat's Horn": {"base": "Goat's Horn", "type": "unique low"},
 	"7 Golden Buckler": {"base": "Golden Buckler", "type": "unique low"},
 	"7 Golden Mask": {"base": "Golden Mask", "type": "unique low"},
