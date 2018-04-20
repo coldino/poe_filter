@@ -144,7 +144,7 @@ def main():
 			   ("t", "Temp Standard", tuniques, tdivination, tcurrency, tessence),
 			   ("thc", "Temp Hardcore", thcuniques, thcdivination, thccurrency, thcessence)]
 
-	leveling = True  # toggle to show leveling items
+	leveling = False  # toggle to show leveling items
 
 	for i in leagues:
 

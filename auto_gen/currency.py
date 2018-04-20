@@ -1,12 +1,12 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
-# Created: 04/09/2018(m/d/y) 03:01:45 UTC from "Standard" data
+# Created: 04/20/2018(m/d/y) 17:41:29 UTC from "Standard" data
 
 desc = "Currency Autogen"
 
 # Base type : settings pair
 items = {
-	"0 Alchemy Shard": {"base": "Alchemy Shard", "class": "Currency", "type": "hide"},
+	"0 Alchemy Shard": {"base": "Alchemy Shard", "class": "Currency", "type": "currency very low"},
 	"0 Alteration Shard": {"base": "Alteration Shard", "class": "Currency", "type": "hide"},
 	"0 Ancient Orb": {"base": "Ancient Orb", "class": "Currency", "type": "currency very high"},
 	"0 Ancient Shard": {"base": "Ancient Shard", "class": "Currency", "type": "currency high"},
@@ -41,7 +41,7 @@ items = {
 	"0 Master Cartographer's Sextant": {"base": "Master Cartographer's Sextant", "class": "Currency", "type": "currency very high"},
 	"0 Mirror Shard": {"base": "Mirror Shard", "class": "Currency", "type": "currency extremely high"},
 	"0 Orb of Alchemy": {"base": "Orb of Alchemy", "class": "Currency", "type": "currency normal"},
-	"0 Orb of Alteration": {"base": "Orb of Alteration", "class": "Currency", "type": "currency normal"},
+	"0 Orb of Alteration": {"base": "Orb of Alteration", "class": "Currency", "type": "currency low"},
 	"0 Orb of Annulment": {"base": "Orb of Annulment", "class": "Currency", "type": "currency very high"},
 	"0 Orb of Augmentation": {"base": "Orb of Augmentation", "class": "Currency", "type": "hide"},
 	"0 Orb of Binding": {"base": "Orb of Binding", "class": "Currency", "type": "currency normal"},
