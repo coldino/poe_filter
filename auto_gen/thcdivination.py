@@ -1,6 +1,6 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
-# Created: 04/20/2018(m/d/y) 17:41:30 UTC from "tmphardcore" data
+# Created: 04/21/2018(m/d/y) 02:33:22 UTC from "tmphardcore" data
 
 desc = "Divination Card"
 
@@ -25,7 +25,6 @@ items = {
 	"1 The Wind": {"base": "The Wind", "class": "Divination Card", "type": "divination very high"},
 	"1 The Wolven King's Bite": {"base": "The Wolven King's Bite", "class": "Divination Card", "type": "divination very high"},
 	"1 The World Eater": {"base": "The World Eater", "class": "Divination Card", "type": "divination very high"},
-	"1 Wealth and Power": {"base": "Wealth and Power", "class": "Divination Card", "type": "divination very high"},
 	"2 Bowyer's Dream": {"base": "Bowyer's Dream", "class": "Divination Card", "type": "divination high"},
 	"2 Chaotic Disposition": {"base": "Chaotic Disposition", "class": "Divination Card", "type": "divination high"},
 	"2 Heterochromia": {"base": "Heterochromia", "class": "Divination Card", "type": "divination high"},
@@ -55,6 +54,7 @@ items = {
 	"2 The Vast": {"base": "The Vast", "class": "Divination Card", "type": "divination high"},
 	"2 The Void": {"base": "The Void", "class": "Divination Card", "type": "divination high"},
 	"2 The Wolf": {"base": "The Wolf", "class": "Divination Card", "type": "divination high"},
+	"2 Wealth and Power": {"base": "Wealth and Power", "class": "Divination Card", "type": "divination high"},
 	"3 A Mother's Parting Gift": {"base": "A Mother's Parting Gift", "class": "Divination Card", "type": "divination low"},
 	"3 Anarchy's Price": {"base": "Anarchy's Price", "class": "Divination Card", "type": "divination low"},
 	"3 Assassin's Favour": {"base": "Assassin's Favour", "class": "Divination Card", "type": "divination low"},
@@ -75,10 +75,9 @@ items = {
 	"3 The Catalyst": {"base": "The Catalyst", "class": "Divination Card", "type": "divination low"},
 	"3 The Coming Storm": {"base": "The Coming Storm", "class": "Divination Card", "type": "divination low"},
 	"3 The Conduit": {"base": "The Conduit", "class": "Divination Card", "type": "divination low"},
-	"3 The Deceiver": {"base": "The Deceiver", "class": "Divination Card", "type": "divination low"},
+	"3 The Demoness": {"base": "The Demoness", "class": "Divination Card", "type": "divination low"},
 	"3 The Endurance": {"base": "The Endurance", "class": "Divination Card", "type": "divination low"},
 	"3 The Gambler": {"base": "The Gambler", "class": "Divination Card", "type": "divination low"},
-	"3 The Garish Power": {"base": "The Garish Power", "class": "Divination Card", "type": "divination low"},
 	"3 The Gemcutter": {"base": "The Gemcutter", "class": "Divination Card", "type": "divination low"},
 	"3 The Gladiator": {"base": "The Gladiator", "class": "Divination Card", "type": "divination low"},
 	"3 The Incantation": {"base": "The Incantation", "class": "Divination Card", "type": "divination low"},

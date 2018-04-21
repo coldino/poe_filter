@@ -1,6 +1,6 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
-# Created: 04/20/2018(m/d/y) 17:41:30 UTC from "tmpstandard" data
+# Created: 04/21/2018(m/d/y) 02:33:22 UTC from "tmpstandard" data
 
 desc = "Divination Card"
 
@@ -28,6 +28,7 @@ items = {
 	"2 Chaotic Disposition": {"base": "Chaotic Disposition", "class": "Divination Card", "type": "divination high"},
 	"2 Heterochromia": {"base": "Heterochromia", "class": "Divination Card", "type": "divination high"},
 	"2 Left to Fate": {"base": "Left to Fate", "class": "Divination Card", "type": "divination high"},
+	"2 Lingering Remnants": {"base": "Lingering Remnants", "class": "Divination Card", "type": "divination high"},
 	"2 Pride Before the Fall": {"base": "Pride Before the Fall", "class": "Divination Card", "type": "divination high"},
 	"2 Rebirth": {"base": "Rebirth", "class": "Divination Card", "type": "divination high"},
 	"2 The Artist": {"base": "The Artist", "class": "Divination Card", "type": "divination high"},
@@ -43,7 +44,6 @@ items = {
 	"2 The Hunger": {"base": "The Hunger", "class": "Divination Card", "type": "divination high"},
 	"2 The King's Heart": {"base": "The King's Heart", "class": "Divination Card", "type": "divination high"},
 	"2 The Last One Standing": {"base": "The Last One Standing", "class": "Divination Card", "type": "divination high"},
-	"2 The Lion": {"base": "The Lion", "class": "Divination Card", "type": "divination high"},
 	"2 The Obscured": {"base": "The Obscured", "class": "Divination Card", "type": "divination high"},
 	"2 The Polymath": {"base": "The Polymath", "class": "Divination Card", "type": "divination high"},
 	"2 The Risk": {"base": "The Risk", "class": "Divination Card", "type": "divination high"},
@@ -70,11 +70,13 @@ items = {
 	"3 Destined to Crumble": {"base": "Destined to Crumble", "class": "Divination Card", "type": "divination low"},
 	"3 Doedre's Madness": {"base": "Doedre's Madness", "class": "Divination Card", "type": "divination low"},
 	"3 Dying Anguish": {"base": "Dying Anguish", "class": "Divination Card", "type": "divination low"},
+	"3 Emperor's Luck": {"base": "Emperor's Luck", "class": "Divination Card", "type": "divination low"},
 	"3 Forbidden Power": {"base": "Forbidden Power", "class": "Divination Card", "type": "divination low"},
 	"3 Gift of the Gemling Queen": {"base": "Gift of the Gemling Queen", "class": "Divination Card", "type": "divination low"},
 	"3 Grave Knowledge": {"base": "Grave Knowledge", "class": "Divination Card", "type": "divination low"},
 	"3 Her Mask": {"base": "Her Mask", "class": "Divination Card", "type": "divination low"},
 	"3 Hubris": {"base": "Hubris", "class": "Divination Card", "type": "divination low"},
+	"3 Hunter's Resolve": {"base": "Hunter's Resolve", "class": "Divination Card", "type": "divination low"},
 	"3 Lantador's Lost Love": {"base": "Lantador's Lost Love", "class": "Divination Card", "type": "divination low"},
 	"3 Light and Truth": {"base": "Light and Truth", "class": "Divination Card", "type": "divination low"},
 	"3 Loyalty": {"base": "Loyalty", "class": "Divination Card", "type": "divination low"},
@@ -89,7 +91,6 @@ items = {
 	"3 The Blazing Fire": {"base": "The Blazing Fire", "class": "Divination Card", "type": "divination low"},
 	"3 The Calling": {"base": "The Calling", "class": "Divination Card", "type": "divination low"},
 	"3 The Cataclysm": {"base": "The Cataclysm", "class": "Divination Card", "type": "divination low"},
-	"3 The Catalyst": {"base": "The Catalyst", "class": "Divination Card", "type": "divination low"},
 	"3 The Coming Storm": {"base": "The Coming Storm", "class": "Divination Card", "type": "divination low"},
 	"3 The Conduit": {"base": "The Conduit", "class": "Divination Card", "type": "divination low"},
 	"3 The Deceiver": {"base": "The Deceiver", "class": "Divination Card", "type": "divination low"},
