@@ -1,6 +1,6 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
-# Created: 04/21/2018(m/d/y) 02:33:22 UTC from "Standard" data
+# Created: 04/22/2018(m/d/y) 00:23:55 UTC from "Standard" data
 
 desc = "Currency Autogen"
 
@@ -35,7 +35,7 @@ items = {
 	"0 Glassblower's Bauble": {"base": "Glassblower's Bauble", "class": "Currency", "type": "currency low"},
 	"0 Harbinger's Orb": {"base": "Harbinger's Orb", "class": "Currency", "type": "currency very high"},
 	"0 Harbinger's Shard": {"base": "Harbinger's Shard", "class": "Currency", "type": "currency high"},
-	"0 Horizon Shard": {"base": "Horizon Shard", "class": "Currency", "type": "currency normal"},
+	"0 Horizon Shard": {"base": "Horizon Shard", "class": "Currency", "type": "currency low"},
 	"0 Jeweller's Orb": {"base": "Jeweller's Orb", "class": "Currency", "type": "currency low"},
 	"0 Journeyman Cartographer's Sextant": {"base": "Journeyman Cartographer's Sextant", "class": "Currency", "type": "currency high"},
 	"0 Master Cartographer's Sextant": {"base": "Master Cartographer's Sextant", "class": "Currency", "type": "currency very high"},

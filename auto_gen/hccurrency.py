@@ -1,6 +1,6 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
-# Created: 04/21/2018(m/d/y) 02:33:22 UTC from "Hardcore" data
+# Created: 04/22/2018(m/d/y) 00:23:55 UTC from "Hardcore" data
 
 desc = "Currency Autogen"
 
@@ -42,11 +42,11 @@ items = {
 	"0 Mirror Shard": {"base": "Mirror Shard", "class": "Currency", "type": "currency extremely high"},
 	"0 Orb of Alchemy": {"base": "Orb of Alchemy", "class": "Currency", "type": "currency normal"},
 	"0 Orb of Alteration": {"base": "Orb of Alteration", "class": "Currency", "type": "currency very low"},
-	"0 Orb of Annulment": {"base": "Orb of Annulment", "class": "Currency", "type": "currency very high"},
+	"0 Orb of Annulment": {"base": "Orb of Annulment", "class": "Currency", "type": "currency high"},
 	"0 Orb of Augmentation": {"base": "Orb of Augmentation", "class": "Currency", "type": "hide"},
 	"0 Orb of Binding": {"base": "Orb of Binding", "class": "Currency", "type": "currency normal"},
 	"0 Orb of Chance": {"base": "Orb of Chance", "class": "Currency", "type": "currency normal"},
-	"0 Orb of Fusing": {"base": "Orb of Fusing", "class": "Currency", "type": "currency normal"},
+	"0 Orb of Fusing": {"base": "Orb of Fusing", "class": "Currency", "type": "currency high"},
 	"0 Orb of Horizons": {"base": "Orb of Horizons", "class": "Currency", "type": "currency normal"},
 	"0 Orb of Regret": {"base": "Orb of Regret", "class": "Currency", "type": "currency high"},
 	"0 Orb of Scouring": {"base": "Orb of Scouring", "class": "Currency", "type": "currency high"},

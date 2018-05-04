@@ -48,6 +48,7 @@ def currencyclassify(cur, val, exa):
 		tier = 'currency very low'
 	else:
 		print(cur, "< 100")
+#		tier = 'currency very low'
 		tier = 'hide'
 	return "0 {0}\": {{\"base\": \"{0}\", \"class\": \"Currency\", \"type\": \"{1}\"}}".format(cur, tier)
 
