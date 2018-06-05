@@ -1,6 +1,6 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
-# Created: 06/05/2018(m/d/y) 00:37:09 UTC from "Standard" data
+# Created: 06/05/2018(m/d/y) 01:18:26 UTC from "Standard" data
 
 desc = "Unique"
 
@@ -18,6 +18,7 @@ items = {
 	"0 Clutching Talisman": {"base": "Clutching Talisman", "type": "unique very high"},
 	"0 Courtyard Map": {"base": "Courtyard Map", "type": "unique very high"},
 	"0 Crusader Boots": {"base": "Crusader Boots", "type": "unique very high"},
+	"0 Deicide Mask": {"base": "Deicide Mask", "type": "unique very high"},
 	"0 Ezomyte Tower Shield": {"base": "Ezomyte Tower Shield", "type": "unique very high"},
 	"0 Gemstone Sword": {"base": "Gemstone Sword", "type": "unique very high"},
 	"0 Glorious Plate": {"base": "Glorious Plate", "type": "unique very high"},
@@ -65,7 +66,6 @@ items = {
 	"1 Close Helmet": {"base": "Close Helmet", "type": "unique high"},
 	"1 Cloth Belt Piece": {"base": "Cloth Belt Piece", "type": "unique high"},
 	"1 Cutlass": {"base": "Cutlass", "type": "unique high"},
-	"1 Deicide Mask": {"base": "Deicide Mask", "type": "unique high"},
 	"1 Destiny Leather": {"base": "Destiny Leather", "type": "unique high"},
 	"1 Ezomyte Axe": {"base": "Ezomyte Axe", "type": "unique high"},
 	"1 Ezomyte Burgonet": {"base": "Ezomyte Burgonet", "type": "unique high"},
@@ -100,7 +100,6 @@ items = {
 	"1 Sorcerer Gloves": {"base": "Sorcerer Gloves", "type": "unique high"},
 	"1 Steel Ring": {"base": "Steel Ring", "type": "unique high"},
 	"1 Steelhead": {"base": "Steelhead", "type": "unique high"},
-	"1 Stibnite Flask": {"base": "Stibnite Flask", "type": "unique high"},
 	"1 Temple Map": {"base": "Temple Map", "type": "unique high"},
 	"1 Titan Greaves": {"base": "Titan Greaves", "type": "unique high"},
 	"1 Titanium Spirit Shield": {"base": "Titanium Spirit Shield", "type": "unique high"},
@@ -330,8 +329,10 @@ items = {
 	"7 Recurve Bow": {"base": "Recurve Bow", "type": "unique low"},
 	"7 Riveted Boots": {"base": "Riveted Boots", "type": "unique low"},
 	"7 Rotted Round Shield": {"base": "Rotted Round Shield", "type": "unique low"},
+	"7 Royal Skean": {"base": "Royal Skean", "type": "unique low"},
 	"7 Sabre": {"base": "Sabre", "type": "unique low"},
 	"7 Samite Gloves": {"base": "Samite Gloves", "type": "unique low"},
+	"7 Samite Helmet": {"base": "Samite Helmet", "type": "unique low"},
 	"7 Scholar's Robe": {"base": "Scholar's Robe", "type": "unique low"},
 	"7 Secutor Helm": {"base": "Secutor Helm", "type": "unique low"},
 	"7 Sentinel Jacket": {"base": "Sentinel Jacket", "type": "unique low"},
@@ -343,7 +344,6 @@ items = {
 	"7 Short Bow": {"base": "Short Bow", "type": "unique low"},
 	"7 Silk Gloves": {"base": "Silk Gloves", "type": "unique low"},
 	"7 Silk Slippers": {"base": "Silk Slippers", "type": "unique low"},
-	"7 Slaughter Knife": {"base": "Slaughter Knife", "type": "unique low"},
 	"7 Sledgehammer": {"base": "Sledgehammer", "type": "unique low"},
 	"7 Soldier Helmet": {"base": "Soldier Helmet", "type": "unique low"},
 	"7 Spiked Club": {"base": "Spiked Club", "type": "unique low"},

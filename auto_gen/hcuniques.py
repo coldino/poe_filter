@@ -1,6 +1,6 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
-# Created: 06/05/2018(m/d/y) 00:37:09 UTC from "Hardcore" data
+# Created: 06/05/2018(m/d/y) 01:18:26 UTC from "Hardcore" data
 
 desc = "Unique"
 
@@ -10,7 +10,6 @@ items = {
 	"0 Arcanist Gloves": {"base": "Arcanist Gloves", "type": "unique very high"},
 	"0 Arcanist Slippers": {"base": "Arcanist Slippers", "type": "unique very high"},
 	"0 Archon Kite Shield": {"base": "Archon Kite Shield", "type": "unique very high"},
-	"0 Assassin's Boots": {"base": "Assassin's Boots", "type": "unique very high"},
 	"0 Astral Plate": {"base": "Astral Plate", "type": "unique very high"},
 	"0 Blood Raiment": {"base": "Blood Raiment", "type": "unique very high"},
 	"0 Blue Pearl Amulet": {"base": "Blue Pearl Amulet", "type": "unique very high"},
@@ -47,7 +46,6 @@ items = {
 	"0 Imperial Maul": {"base": "Imperial Maul", "type": "unique very high"},
 	"0 Jasper Chopper": {"base": "Jasper Chopper", "type": "unique very high"},
 	"0 Jewelled Foil": {"base": "Jewelled Foil", "type": "unique very high"},
-	"0 Lion Pelt": {"base": "Lion Pelt", "type": "unique very high"},
 	"0 Magistrate Crown": {"base": "Magistrate Crown", "type": "unique very high"},
 	"0 Meatgrinder": {"base": "Meatgrinder", "type": "unique very high"},
 	"0 Midnight Blade": {"base": "Midnight Blade", "type": "unique very high"},
@@ -301,7 +299,6 @@ items = {
 	"7 Stiletto": {"base": "Stiletto", "type": "unique low"},
 	"7 Strapped Boots": {"base": "Strapped Boots", "type": "unique low"},
 	"7 Sulphur Flask": {"base": "Sulphur Flask", "type": "unique low"},
-	"7 Tricorne": {"base": "Tricorne", "type": "unique low"},
 	"7 Vaal Buckler": {"base": "Vaal Buckler", "type": "unique low"},
 	"7 Velvet Gloves": {"base": "Velvet Gloves", "type": "unique low"},
 	"7 Velvet Slippers": {"base": "Velvet Slippers", "type": "unique low"},

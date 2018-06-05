@@ -1,6 +1,6 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
-# Created: 06/05/2018(m/d/y) 00:37:09 UTC from "tmphardcore" data
+# Created: 06/05/2018(m/d/y) 01:18:26 UTC from "tmphardcore" data
 
 desc = "Divination Card"
 
@@ -28,10 +28,8 @@ items = {
 	"1 The Last One Standing": {"base": "The Last One Standing", "class": "Divination Card", "type": "divination very high"},
 	"1 The Offering": {"base": "The Offering", "class": "Divination Card", "type": "divination very high"},
 	"1 The Road to Power": {"base": "The Road to Power", "class": "Divination Card", "type": "divination very high"},
-	"1 The Spark and the Flame": {"base": "The Spark and the Flame", "class": "Divination Card", "type": "divination very high"},
 	"1 The Spoiled Prince": {"base": "The Spoiled Prince", "class": "Divination Card", "type": "divination very high"},
 	"1 The Thaumaturgist": {"base": "The Thaumaturgist", "class": "Divination Card", "type": "divination very high"},
-	"1 The Tyrant": {"base": "The Tyrant", "class": "Divination Card", "type": "divination very high"},
 	"1 The Undisputed": {"base": "The Undisputed", "class": "Divination Card", "type": "divination very high"},
 	"1 The World Eater": {"base": "The World Eater", "class": "Divination Card", "type": "divination very high"},
 	"2 Abandoned Wealth": {"base": "Abandoned Wealth", "class": "Divination Card", "type": "divination high"},
@@ -70,8 +68,10 @@ items = {
 	"2 The Samurai's Eye": {"base": "The Samurai's Eye", "class": "Divination Card", "type": "divination high"},
 	"2 The Sephirot": {"base": "The Sephirot", "class": "Divination Card", "type": "divination high"},
 	"2 The Soul": {"base": "The Soul", "class": "Divination Card", "type": "divination high"},
+	"2 The Spark and the Flame": {"base": "The Spark and the Flame", "class": "Divination Card", "type": "divination high"},
 	"2 The Surveyor": {"base": "The Surveyor", "class": "Divination Card", "type": "divination high"},
 	"2 The Throne": {"base": "The Throne", "class": "Divination Card", "type": "divination high"},
+	"2 The Tyrant": {"base": "The Tyrant", "class": "Divination Card", "type": "divination high"},
 	"2 The Undaunted": {"base": "The Undaunted", "class": "Divination Card", "type": "divination high"},
 	"2 The Void": {"base": "The Void", "class": "Divination Card", "type": "divination high"},
 	"2 The Warlord": {"base": "The Warlord", "class": "Divination Card", "type": "divination high"},
@@ -87,6 +87,7 @@ items = {
 	"3 Lantador's Lost Love": {"base": "Lantador's Lost Love", "class": "Divination Card", "type": "divination low"},
 	"3 Rain of Chaos": {"base": "Rain of Chaos", "class": "Divination Card", "type": "divination low"},
 	"3 Shard of Fate": {"base": "Shard of Fate", "class": "Divination Card", "type": "divination low"},
+	"3 The Catalyst": {"base": "The Catalyst", "class": "Divination Card", "type": "divination low"},
 	"3 The Conduit": {"base": "The Conduit", "class": "Divination Card", "type": "divination low"},
 	"3 The Endurance": {"base": "The Endurance", "class": "Divination Card", "type": "divination low"},
 	"3 The Explorer": {"base": "The Explorer", "class": "Divination Card", "type": "divination low"},

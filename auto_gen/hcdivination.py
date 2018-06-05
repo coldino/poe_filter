@@ -1,6 +1,6 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
-# Created: 06/05/2018(m/d/y) 00:37:09 UTC from "Hardcore" data
+# Created: 06/05/2018(m/d/y) 01:18:26 UTC from "Hardcore" data
 
 desc = "Divination Card"
 
@@ -129,10 +129,10 @@ items = {
 	"1 The Thaumaturgist": {"base": "The Thaumaturgist", "class": "Divination Card", "type": "divination very high"},
 	"1 The Tower": {"base": "The Tower", "class": "Divination Card", "type": "divination very high"},
 	"1 The Traitor": {"base": "The Traitor", "class": "Divination Card", "type": "divination very high"},
-	"1 The Tyrant": {"base": "The Tyrant", "class": "Divination Card", "type": "divination very high"},
 	"1 The Undaunted": {"base": "The Undaunted", "class": "Divination Card", "type": "divination very high"},
 	"1 The Undisputed": {"base": "The Undisputed", "class": "Divination Card", "type": "divination very high"},
 	"1 The Union": {"base": "The Union", "class": "Divination Card", "type": "divination very high"},
+	"1 The Vast": {"base": "The Vast", "class": "Divination Card", "type": "divination very high"},
 	"1 The Visionary": {"base": "The Visionary", "class": "Divination Card", "type": "divination very high"},
 	"1 The Void": {"base": "The Void", "class": "Divination Card", "type": "divination very high"},
 	"1 The Warden": {"base": "The Warden", "class": "Divination Card", "type": "divination very high"},
@@ -193,9 +193,9 @@ items = {
 	"2 The Sword King's Salute": {"base": "The Sword King's Salute", "class": "Divination Card", "type": "divination high"},
 	"2 The Throne": {"base": "The Throne", "class": "Divination Card", "type": "divination high"},
 	"2 The Trial": {"base": "The Trial", "class": "Divination Card", "type": "divination high"},
+	"2 The Tyrant": {"base": "The Tyrant", "class": "Divination Card", "type": "divination high"},
 	"2 The Valkyrie": {"base": "The Valkyrie", "class": "Divination Card", "type": "divination high"},
 	"2 The Valley of Steel Boxes": {"base": "The Valley of Steel Boxes", "class": "Divination Card", "type": "divination high"},
-	"2 The Vast": {"base": "The Vast", "class": "Divination Card", "type": "divination high"},
 	"2 The Wolf": {"base": "The Wolf", "class": "Divination Card", "type": "divination high"},
 	"2 The Wrath": {"base": "The Wrath", "class": "Divination Card", "type": "divination high"},
 	"2 The Wretched": {"base": "The Wretched", "class": "Divination Card", "type": "divination high"},

@@ -1,6 +1,6 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
-# Created: 06/05/2018(m/d/y) 00:37:09 UTC from "tmpstandard" data
+# Created: 06/05/2018(m/d/y) 01:18:26 UTC from "tmpstandard" data
 
 desc = "Divination Card"
 
@@ -24,6 +24,7 @@ items = {
 	"1 The Iron Bard": {"base": "The Iron Bard", "class": "Divination Card", "type": "divination very high"},
 	"1 The Last One Standing": {"base": "The Last One Standing", "class": "Divination Card", "type": "divination very high"},
 	"1 The Master": {"base": "The Master", "class": "Divination Card", "type": "divination very high"},
+	"1 The Samurai's Eye": {"base": "The Samurai's Eye", "class": "Divination Card", "type": "divination very high"},
 	"1 The Wind": {"base": "The Wind", "class": "Divination Card", "type": "divination very high"},
 	"1 The Wolven King's Bite": {"base": "The Wolven King's Bite", "class": "Divination Card", "type": "divination very high"},
 	"1 The World Eater": {"base": "The World Eater", "class": "Divination Card", "type": "divination very high"},
@@ -49,14 +50,12 @@ items = {
 	"2 The Jeweller's Boon": {"base": "The Jeweller's Boon", "class": "Divination Card", "type": "divination high"},
 	"2 The King's Heart": {"base": "The King's Heart", "class": "Divination Card", "type": "divination high"},
 	"2 The Mayor": {"base": "The Mayor", "class": "Divination Card", "type": "divination high"},
-	"2 The Obscured": {"base": "The Obscured", "class": "Divination Card", "type": "divination high"},
 	"2 The Offering": {"base": "The Offering", "class": "Divination Card", "type": "divination high"},
 	"2 The Polymath": {"base": "The Polymath", "class": "Divination Card", "type": "divination high"},
 	"2 The Professor": {"base": "The Professor", "class": "Divination Card", "type": "divination high"},
 	"2 The Queen": {"base": "The Queen", "class": "Divination Card", "type": "divination high"},
 	"2 The Risk": {"base": "The Risk", "class": "Divination Card", "type": "divination high"},
 	"2 The Saint's Treasure": {"base": "The Saint's Treasure", "class": "Divination Card", "type": "divination high"},
-	"2 The Samurai's Eye": {"base": "The Samurai's Eye", "class": "Divination Card", "type": "divination high"},
 	"2 The Sephirot": {"base": "The Sephirot", "class": "Divination Card", "type": "divination high"},
 	"2 The Soul": {"base": "The Soul", "class": "Divination Card", "type": "divination high"},
 	"2 The Spark and the Flame": {"base": "The Spark and the Flame", "class": "Divination Card", "type": "divination high"},
@@ -96,7 +95,6 @@ items = {
 	"3 The Calling": {"base": "The Calling", "class": "Divination Card", "type": "divination low"},
 	"3 The Cataclysm": {"base": "The Cataclysm", "class": "Divination Card", "type": "divination low"},
 	"3 The Catalyst": {"base": "The Catalyst", "class": "Divination Card", "type": "divination low"},
-	"3 The Coming Storm": {"base": "The Coming Storm", "class": "Divination Card", "type": "divination low"},
 	"3 The Conduit": {"base": "The Conduit", "class": "Divination Card", "type": "divination low"},
 	"3 The Deceiver": {"base": "The Deceiver", "class": "Divination Card", "type": "divination low"},
 	"3 The Doppelganger": {"base": "The Doppelganger", "class": "Divination Card", "type": "divination low"},
@@ -105,7 +103,6 @@ items = {
 	"3 The Feast": {"base": "The Feast", "class": "Divination Card", "type": "divination low"},
 	"3 The Flora's Gift": {"base": "The Flora's Gift", "class": "Divination Card", "type": "divination low"},
 	"3 The Fox": {"base": "The Fox", "class": "Divination Card", "type": "divination low"},
-	"3 The Gambler": {"base": "The Gambler", "class": "Divination Card", "type": "divination low"},
 	"3 The Gemcutter": {"base": "The Gemcutter", "class": "Divination Card", "type": "divination low"},
 	"3 The Gentleman": {"base": "The Gentleman", "class": "Divination Card", "type": "divination low"},
 	"3 The Hermit": {"base": "The Hermit", "class": "Divination Card", "type": "divination low"},
