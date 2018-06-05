@@ -10,6 +10,9 @@ items = {
 	"02 6L": {"other": ["LinkedSockets 6"], "type": "show very high"},
 	"03 5L": {"other": ["Rarity < Unique", "Sockets 5", "LinkedSockets 5", "PlayAlertSound 2 15"], "type": "show high"},
 	"04 6S": {"other": ["Sockets 6", "PlayAlertSound 2 50"], "type": "show high"},
+	# "04 Stone of Passage": {"other": ["PlayAlertSound 2 50"], "class": "Incursion Item", "type": "show high"},
+	# "04 Flashpowder Keg": {"other": ["PlayAlertSound 2 50"], "class": "Incursion Item", "type": "show high"},
+	"04 Incursion Item": {"other": ["PlayAlertSound 2 50"], "class": "Incursion Item", "type": "show high"},
 	# High value atlas bases.  Show and make noise at any rarity
 	"04 84+ Steel Ring": {"other": ["PlayAlertSound 2 50", "ItemLevel >= 84"], "base": "Steel Ring", "type": "show high"},
 	"04 84+ Crystal Belt": {"other": ["ItemLevel >= 84"], "base": "Crystal Belt", "type": "show normal"},
@@ -34,6 +37,8 @@ items = {
 	"0 Sacrificial Garb": {"base": "Sacrificial Garb", "type": "show normal"},
 	"1 Jewel": {"class": "Jewel", "other": ["Rarity <= Magic"], "type": "ignore"},
 	#"0 Strong Steel Net": {"base": "Strong Steel Net", "class": "Currency", "type": "currency low"},
+	"1 Jewel": {"class": "Jewel", "other": ["Rarity <= Magic"], "type": "normal"},
+	"0 Strong Steel Net": {"base": "Strong Steel Net", "class": "Currency", "type": "ignore"},
 	"0 Thaumaturgical Net": {"base": "Thaumaturgical Net", "class": "Currency", "type": "show normal"},
 	"0 Necromancy Net": {"other": ["PlayAlertSound 2 50"], "base": "Necromancy Net", "class": "Currency", "type": "show high"},
 	"1 Rope Net": {"base": "Rope Net", "class": "Currency", "type": "hide"},
