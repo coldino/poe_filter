@@ -19,8 +19,9 @@ items = {
 	"7 50": {"other": ["DropLevel <= 50", "ItemLevel >= 60", "Rarity Rare"], "type": "ignore"},
 	"7 55": {"other": ["DropLevel <= 55", "ItemLevel >= 65", "Rarity Rare"], "type": "ignore"},
 
-	"8 Other rares": {"type": "ignore"},
-	
+	"8 Other rares": {"other": ["Rarity Rare"], "type": "ignore"},
+	"9 Corrupted rares rares": {"other": ["Corrupted True", "Rarity Rare"], "type": "low"},
+
 	# last items in the list because of their special icon that will show if any previous rare highlighting is chosen
 	"9 Elder Item": {'other': ["ElderItem True"], "type": "rare low"},
 	"9 Shaper Item": {'other': ["ShaperItem True"], "type": "rare low"}
