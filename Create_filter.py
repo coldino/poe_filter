@@ -257,8 +257,11 @@ def main(leagues=('Standard', 'Hardcore', 'tmpstandard', 'tmphardcore')):
 
 if __name__ == "__main__":
 	import pricetool_ninja
-	league = ['Standard', 'Hardcore', 'tmpstandard', 'tmphardcore']
-#	league = ['tmpstandard']
+	league = []
+	league.append('Standard')
+	# league.append('Hardcore')
+	league.append('tmpstandard')
+	# league.append('tmphardcore')
 	pricetool_ninja.scrape_ninja(league)
 	# reload updated modules
 	for module in [divination, hcdivination, tdivination, thcdivination,
